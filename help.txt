@@ -1,0 +1,4 @@
+to use api in this site you have to disable CORS policy in your browser and use proxy or vpn to see all picturse propely.
+you can use this command for "windows" with "chrome" in "RUN" window (hit windows button + r) and jus write this command in input box to disable CORS policy :
+
+chrome.exe --user-data-dir=%TMP%\temporary-chrome-profile-dir --disable-web-security --disable-site-isolation-trials
